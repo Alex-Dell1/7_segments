@@ -1,0 +1,24 @@
+.
+|   Directory_Structure.txt
+|   NUMBERS.png
+|   Report.pdf
+|   
++---ASP
+|   |   7-segments_Alex_Della_Schiava.lp
+|   |   7-segments_ASP_pretty_printing.py
+|   |   
+|   \---testing
+|           7-segments_test_on_sticks.py
+|           7_segments_test.py
+|           ASP_results.txt
+|           ASP_results_on_sticks.txt
+|       
+\---Minizinc
+    |   7-segments_Alex_Della_Schiava.mzn
+    |   
+    \---testing
+            minizinc_results.txt
+            minizinc_results_on_sticks.txt
+            testing.py
+            testing_on_sticks.py
+            
